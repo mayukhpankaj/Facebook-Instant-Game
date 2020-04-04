@@ -1,2 +1,2 @@
 # Facebook-Instant-Game
-Template to Integrate HTML5 game with Facebook Instant Game platform.
+Template to Integrate any HTML5 game with Facebook Instant Game platform.
